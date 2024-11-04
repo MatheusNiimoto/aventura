@@ -1,0 +1,39 @@
+body {
+background-color: rgb(55, 90, 55);
+color: white;
+font-family: "Reenie Beanie", cursive;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+margin: 0;
+
+}
+
+button {
+background-color: rgba(78, 146, 76);
+color: white;
+font-family: "Reenie Beanie", cursive;
+
+}
+
+.passo {
+ display: none;
+
+}
+
+.passo.ativo {
+display: block;
+
+}
+
+main {
+text-align: center;    
+max-width: 90%;
+
+}
+
+img {
+max-width: 90%;
+
+}
